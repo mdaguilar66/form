@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+body {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
